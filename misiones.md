@@ -1,3 +1,3 @@
 #misiones
 Archivo de misiones
-subiendo cambios nuevos
+subiendo cambios nuevos a misiones
